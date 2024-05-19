@@ -1,0 +1,2 @@
+# Terraform-smaple-REPO
+My FIRST TERRAFORM RESOURCE
